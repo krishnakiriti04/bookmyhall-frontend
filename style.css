@@ -11,3 +11,7 @@
     height: 500px !important;
     overflow: hidden;
 }
+
+.div-body {
+    height: 90vh;
+}
